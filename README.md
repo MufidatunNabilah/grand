@@ -25,5 +25,5 @@
 ![img1](https://github.com/MufidatunNabilah/grand/blob/master/Soal5.3.PNG) <br>
 
 # Soal 6
-![img1](https://github.com/MufidatunNabilah/grand/blob/master/Soal6.1.PNG) <br>
 ![img1](https://github.com/MufidatunNabilah/grand/blob/master/Soal6.2.PNG) <br>
+![img1](https://github.com/MufidatunNabilah/grand/blob/master/Soal6.1.PNG) <br>
