@@ -11,7 +11,7 @@
 # Soal 3
 ![img1](https://github.com/MufidatunNabilah/grand/blob/master/Soal3.1.PNG) <br>
 ![img1](https://github.com/MufidatunNabilah/grand/blob/master/Soal3.2.1.PNG) <br>
-![img1](https://github.com/MufidatunNabilah/grand/blob/master/Soal3.3.1PNG) <br>
+![img1](https://github.com/MufidatunNabilah/grand/blob/master/Soal3.3.1.PNG) <br>
 
 # Soal 4
 ![img1](https://github.com/MufidatunNabilah/grand/blob/master/Soal4.1.PNG) <br>
