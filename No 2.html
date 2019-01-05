@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Soal No. 2</title>
+</head>
+<Body>
+    
+<div style="background-color: aquamarine; text-align: center; height: 20px"><strong>PLEASE LOGIN</strong></div><br><br>   
+<div class="container" align="center">
+<form onSubmit="alert('Submitted.);return false;">   
+    <label for="user"><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="user" required>
+      
+<br><br>
+      
+    <label for="pass"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="pass" title="Password harus 8 karakter. menggunakan huruf besar, huruf kecil dan karakter spesial" pattern="(?=^.{8,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" required>
+      
+<br><br>
+      
+    <button type="submit">Login</button>
+</form>       
+<br><br>
+    
+<div style="background-color: aquamarine; text-align: center; height: 20px"></div>
+    
+</div>
+</Body>
+</html>
